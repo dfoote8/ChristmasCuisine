@@ -1,0 +1,32 @@
+.container{
+    width: 100%;
+    height: 1000px;
+background-image: url(../Css/Images/aaronburdensnowflake.jpg);
+background-size: cover;
+    text-align: center;
+    background-color: aqua;
+    .box{
+        display: inline-block;
+    }
+}
+h1{
+    font-size: 2.5em;
+}
+.first{
+    width: 400px;
+    height:500px;
+    background-color: white;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+}
+.second{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+}
+.cookies{
+    background-image: url(../Css/Images/cookies.png);
+}
